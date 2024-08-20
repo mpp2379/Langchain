@@ -1,0 +1,17 @@
+langchain_openai
+langchain_core
+python_dotenv
+streamlit
+langchain_community
+langserve
+langchain_google_genai
+fastapi
+uvicorn
+sse_starlette
+bs4
+pypdf
+faiss-cpu==1.7.4
+sentence-transformers==2.2.2
+InstructorEmbedding
+e
+torch
